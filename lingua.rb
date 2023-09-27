@@ -1,8 +1,8 @@
 class Lingua < Formula
   desc "Unified localization management tool for iOS & Android via Google Sheets"
   homepage "https://github.com/poviolabs/Lingua"
-  url "https://github.com/poviolabs/Lingua/releases/download/0.2.7/Lingua"
-  sha256 "a71fd83b3dc01add873239bd2e625e02e202ab1d5b8f6a4670311a98c5f8a001"
+  url "https://github.com/poviolabs/Lingua/releases/download/1.0.0/Lingua"
+  sha256 "513d319f53af5585920ca0839739d604075cbfe41c24031e7e2b54bbdb662795"
   
   def install
     bin.install "Lingua"
